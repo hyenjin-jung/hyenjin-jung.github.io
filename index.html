@@ -1,10 +1,107 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Hello, world!</title>
-    </head>
-    <body>
-        <h1>Hello, world!</h1>
-        <p>Hyenjin의 홈페이지에 오신 것을 환영합니다!</p>
-    </body>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>정현진의 개인 웹페이지</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #e9ecef;
+            color: #343a40;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #495057;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-title {
+            font-size: 1.4em;
+            color: #17a2b8;
+            margin-bottom: 15px;
+            padding-bottom: 5px;
+            border-bottom: 2px solid #17a2b8;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #f8f9fa;
+            margin: 10px 0;
+            padding: 10px 15px;
+            border-left: 4px solid #17a2b8;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+        ul li:hover {
+            background: #e9ecef;
+        }
+        a {
+            color: #17a2b8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>정현진의 개인 웹페이지</h1>
+
+        <div class="section">
+            <div class="section-title">이름</div>
+            <p>정현진 (Jung Hyengin)</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">이메일 주소</div>
+            <p><a href="mailto:junghj0724@dongyang.ac.kr">junghj0724@dongyang.ac.kr</a></p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">기술 스택</div>
+            <ul>
+                <li>C</li>
+                <li>Python</li>
+                <li>Git</li>
+                <li>Google</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">대학 정보</div>
+            <p>동양미래대학교 컴퓨터소프트웨어공학과, 2024 입학</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">기술 개발 경험</div>
+            <ul>
+                <li>HTML로 서울시 운동코트 찾아주는 웹페이지 제작</li>
+                <li>고등학교 때 C, Arduino 학습 및 프로젝트 진행</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">관심 기술 분야</div>
+            <p>AI (Artificial Intelligence)</p>
+        </div>
+    </div>
+</body>
 </html>

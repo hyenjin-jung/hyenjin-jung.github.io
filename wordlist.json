@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "word": "cupcake",
+        "meaning": "컵케이크",
+        "thumbnail": "asset/img/1/thumbnailImg.jpg"
+    },
+    {
+        "id": 2,
+        "word": "chocolate",
+        "meaning": "초콜릿",
+        "thumbnail": "./asset/img/2/thumbnailImg.jpg"
+    },
+    {
+        "id": 3,
+        "word": "laptop",
+        "meaning": "노트북",
+        "thumbnail": "asset/img/3/thumbnailImg.jpg"
+    },
+    {
+        "id": 4,
+        "word": "camera",
+        "meaning": "카메라",
+        "thumbnail": "asset/img/4/thumbnailImg.jpg"
+    },
+    {
+        "id": 5,
+        "word": "bread",
+        "meaning": "빵",
+        "thumbnail": "asset/img/5/thumbnailImg.jpg"
+    },
+    {
+        "id": 6,
+        "word": "coffee",
+        "meaning": "커피",
+        "thumbnail": "asset/img/6/thumbnailImg.jpg"
+    },
+    {
+        "id": 7,
+        "word": "pineapple",
+        "meaning": "파인애플",
+        "thumbnail": "asset/img/7/thumbnailImg.jpg"
+    },
+    {
+        "id": 8,
+        "word": "pencil",
+        "meaning": "연필",
+        "thumbnail": "asset/img/8/thumbnailImg.jpg"
+    },
+    {
+        "id": 9,
+        "word": "apple",
+        "meaning": "사과",
+        "thumbnail": "asset/img/9/thumbnailImg.jpg"
+    },
+    {
+        "id": 10,
+        "word": "banana",
+        "meaning": "바나나",
+        "thumbnail": "asset/img/10/thumbnailImg.jpg"
+    }
+]

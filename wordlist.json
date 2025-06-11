@@ -9,7 +9,7 @@
         "id": 2,
         "word": "chocolate",
         "meaning": "초콜릿",
-        "thumbnail": "./asset/img/2/thumbnailImg.jpg"
+        "thumbnail": "asset/img/2/thumbnailImg.jpg"
     },
     {
         "id": 3,

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "word": "earth",
+        "meaning": "지구",
+        "thumbnail": "asset/img/1/thumbnailImg.jpg"
+    },
+    {
+        "id": 2,
+        "word": "river",
+        "meaning": "강",
+        "thumbnail": "asset/img/2/thumbnailImg.jpg"
+    },
+    {
+        "id": 3,
+        "word": "mountain",
+        "meaning": "산",
+        "thumbnail": "asset/img/3/thumbnailImg.jpg"
+    },
+    {
+        "id": 4,
+        "word": "giraffe",
+        "meaning": "기린",
+        "thumbnail": "asset/img/4/thumbnailImg.jpg"
+    },
+    {
+        "id": 5,
+        "word": "whale",
+        "meaning": "고래",
+        "thumbnail": "asset/img/5/thumbnailImg.jpg"
+    },
+    {
+        "id": 6,
+        "word": "island",
+        "meaning": "섬",
+        "thumbnail": "asset/img/6/thumbnailImg.jpg"
+    },
+    {
+        "id": 7,
+        "word": "butterfly",
+        "meaning": "나비",
+        "thumbnail": "asset/img/7/thumbnailImg.jpg"
+    },
+    {
+        "id": 8,
+        "word": "pencil",
+        "meaning": "연필",
+        "thumbnail": "asset/img/8/thumbnailImg.jpg"
+    },
+    {
+        "id": 9,
+        "word": "apple",
+        "meaning": "사과",
+        "thumbnail": "asset/img/9/thumbnailImg.jpg"
+    },
+    {
+        "id": 10,
+        "word": "banana",
+        "meaning": "바나나",
+        "thumbnail": "asset/img/10/thumbnailImg.jpg"
+    }
+]
